@@ -1,0 +1,51 @@
+.container{
+    margin-top: 14px;
+    margin-left: 1780px;
+}
+.general{
+    display: inline-block;
+    margin-left: 15px;
+    height: 80px;
+    border-radius: 5px;
+    width: 160px;
+}
+.customerimg{
+    margin-left: 31px;
+}
+.imgsize{
+    position: relative;
+    left: 27px;
+    margin-top: -17px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    width: 30px;
+    height: 80px;
+    display: inline;
+    float: left;
+}
+.text{
+    float: left;
+    height: 54px;
+    display: inline-block;
+}
+.text h5{
+    margin: 0px;
+    padding: 0px;
+}
+.text p{
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+}
+.availableimage{
+    margin: 0px;
+    margin-top: -17px;
+    width: 28px;
+    height: 80px;
+    position: relative;
+    left: 39px;
+}
+.itemsaleimg{
+    position: relative;
+    margin-left: 32.5px;
+}

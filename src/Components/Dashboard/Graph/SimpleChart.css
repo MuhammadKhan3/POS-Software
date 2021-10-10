@@ -1,0 +1,11 @@
+.graph-container{
+    float: left;
+    display: block;
+    position: absolute;
+    left: 180px;
+    top: 290px;
+    margin-left: 60px;
+}
+.main-container{
+    display: block;
+}
